@@ -40,3 +40,5 @@ __MACOSX/
 
 #Ipython
 .ipynb_checkpoints/
+
+*.csv
